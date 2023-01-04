@@ -1,5 +1,5 @@
 ## API REST con relaciones @ManyToOne / @OneToMany en Spring Boot
-### POST: save colegio
+### POST: colegio
 ![Postman 27_6_2022 19_04_10](https://user-images.githubusercontent.com/88462536/176048095-25bc8d31-c067-4afb-8523-abd2c12ffd7e.png)
 ### GET: alumnos
 ![Postman 27_6_2022 19_09_32](https://user-images.githubusercontent.com/88462536/176048186-2aed0c7c-e3c6-4a28-bc85-563932c13b53.png)
